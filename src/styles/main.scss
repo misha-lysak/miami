@@ -1,12 +1,12 @@
 .main {
 
   color: $main-text-color;
-  
+
   &__section {
     margin: 0 auto 20px;
+    margin-left: 20px;
   }
-  
-  
+
   &__section-gallery {
     margin: 0 auto 20px;
   }
@@ -15,7 +15,6 @@
     padding-top: 104px;
     margin: 0 0 0 104px;
   }
-  
 
   &__link {
     color: $main-link-color;
